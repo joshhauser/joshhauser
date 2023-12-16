@@ -14,7 +14,7 @@ Josh Hauser
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vue%20-%23DD0031.svg?&style=for-the-badge&logo=vue&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vuejs%20-%23DD0031.svg?&style=for-the-badge&logo=vuejs&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 <p align="center">
