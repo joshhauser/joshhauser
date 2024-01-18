@@ -22,7 +22,7 @@ Josh Hauser
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/k8s%20-%230db7ed.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k8s%20-%230db7ed.svg?&style=for-the-badge&logo=k8s&logoColor=white"/>
 </p>
 
 <p align="center">
