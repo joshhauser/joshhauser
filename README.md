@@ -24,7 +24,7 @@ Josh Hauser
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gitlab%20CI/CD-%23FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
